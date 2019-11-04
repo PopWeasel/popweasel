@@ -6,4 +6,4 @@ draft: false
 
 #PopWeasel
 
-Testing the website and update system
+Testing the website and update system and permissions
